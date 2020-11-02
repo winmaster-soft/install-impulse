@@ -1,6 +1,6 @@
 #!/bin/bash
 
-_time=10
+_time=300
 _threads=20
 _number=+380951162744
 _number2=380951162744
