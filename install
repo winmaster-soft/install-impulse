@@ -22,5 +22,3 @@ echo Установка зависииостей...
 echo
 pip install -r requirements.txt
 clear
-exec bash 
-clear
