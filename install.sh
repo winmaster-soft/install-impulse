@@ -16,7 +16,6 @@ sleep 5s
 cd
 rm -rf install-impulse
 cd Impulse
-rm -f start
 clear
 echo Установка зависииостей...
 echo
