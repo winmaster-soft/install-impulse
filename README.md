@@ -9,3 +9,6 @@
 
 3. Run:  
 ` python start.py --number +380ХХХХХХХХХ `
+
+4. Stop:  
+` Ctrl+Z `
