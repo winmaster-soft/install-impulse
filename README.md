@@ -1,4 +1,4 @@
-# installer
+# install-impulse
 
 ### Instruction
 
