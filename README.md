@@ -2,7 +2,7 @@
 
 ### Instruction
 
-1. [Install Termux](https://play.google.com/store/apps/details?id=com.termux)
+1. [Install Termux](https://f-droid.org/en/packages/com.termux/)
 
 2. Paste command:  
 ` cd; clear; apt update; apt install git python -y; git clone https://github.com/winmaster-soft/install-impulse; cd install-impulse; . install.sh `
